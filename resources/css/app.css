@@ -1,0 +1,104 @@
+.swal2-popup.swal2-toast .swal2-icon {
+    grid-row: 1 !important;
+}
+.card-header{
+    padding: 20px 24px !important;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 20px;
+}
+.swal2-confirm.btn-success{
+    margin-left: 15px;
+}
+.swal2-html-container{
+    margin-top: 5px !important;
+    margin-bottom: 20px !important;
+}
+.swal2-container{z-index: 999999999 !important;}
+.pagination{justify-content: center !important;}
+
+label.required:after{
+    content: " *";
+    color: #FF0000;
+}
+
+#main-content{position: relative}
+/* Loading overlay */
+#loading-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #ffffff66;;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+}
+
+.spinner {
+    border: 8px solid rgba(0, 0, 0, 0.1);
+    border-left: 8px solid #696CFF;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    animation: spin 1.5s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+#suggestions {
+    border: 1px solid #ddd;
+    max-height: 300px;
+    overflow-y: auto;
+    position: absolute;
+    background-color: white;
+    z-index: 1000;
+    width: 250px;
+    top: 50px;
+}
+.suggestion-item {
+    padding: 8px;
+    cursor: pointer;
+}
+.suggestion-item:hover {
+    background-color: #ddd;
+}
+
+@media only screen and (max-width: 600px) {
+    .pagination {
+        width: 100%;
+        overflow: auto;
+    }
+}
+.menu-vertical .menu-sub .menu-link {margin-left: 2rem !important;}
+
+.table-fixed-header {
+    max-height: 500px; /* Set the desired height */
+    overflow-y: auto;  /* Enable vertical scrolling */
+    border-top: 1px solid #ccc; /* Optional: Add a border */
+    border-bottom: 1px solid #ccc; /* Optional: Add a border */
+    border-radius: 8px;
+}
+
+.table-fixed-header table {
+    width: 100%;
+    border-collapse: collapse; /* Merge table borders */
+}
+
+.table-fixed-header thead {
+    position: sticky; /* Fix the header */
+    top: -1px;          /* Set to the top of the container */
+    background: aliceblue;
+    z-index: 1;     /* Ensure header is above other elements */
+    box-shadow: inset 0 -1px 0px 0 #dcdedf;;
+}
+
+.table-fixed-header th, .table-fixed-header td {
+    padding: 10px;
+    text-align: left;
+}
+
+
