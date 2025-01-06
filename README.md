@@ -30,7 +30,7 @@ Seller Login – seller1@inetto.com & 123456
 
 User Login – user1@inetto.com & 123456
 ```
-#### Note : Migration & some other files are missing here. So don't try to install.
+#### Note : Migration files are missing here.
 
 #### Buy Full Script and License Key From Here - [https://www.codexwp.com/softwares/](https://www.codexwp.com/softwares/)
 
