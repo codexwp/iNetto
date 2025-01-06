@@ -32,7 +32,7 @@ User Login – user1@inetto.com & 123456
 ```
 #### Note : Migration files are missing here.
 
-#### Buy Full Script and License Key From Here (Only 69 USD for Single License) - [https://www.codexwp.com/softwares/](https://www.codexwp.com/softwares/)
+#### Buy Full Script and License Key From Here (Only 69 USD for Single License) - [https://www.codexwp.com/products/](https://www.codexwp.com/products/)
 
 
 -------
