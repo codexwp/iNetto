@@ -30,9 +30,8 @@ Seller Login – seller1@inetto.com & 123456
 
 User Login – user1@inetto.com & 123456
 ```
-#### Note : Migration files are missing here.
 
-#### Buy Full Script and License Key From Here (Only 69 USD for Single License) - [https://www.codexwp.com/products/](https://www.codexwp.com/products/)
+#### Buy License Key From Here [https://www.codexwp.com/products/](https://www.codexwp.com/products/)
 
 
 -------
@@ -54,10 +53,10 @@ This document will guide you through the installation and usage of this software
 --------------------------------------------------
 2. INSTALLATION GUIDE
 --------------------------------------------------
-- Upload the contents of the `Upload/` folder to your web server.
-- Run `composer install` to install PHP dependencies.
-- Run `npm install` to install frontend dependencies.
-- Build the frontend assets by running `npm run build`.
+- Upload the .Zip file to your server `public_html` folder and unzip.
+- Run `composer install` to install PHP dependencies if vendor doesn't exist.
+- Run `npm install` to install frontend dependencies if public/build doesn't exist.
+- Build the frontend assets by running `npm run build` if public/build doesn't exist.
 - Open your browser, visit (yourdomain.com/install) and follow the instructions.
 - For details documentation visit here [http://inetto.codexwp.com/public/docs](http://inetto.codexwp.com/public/docs)
 
