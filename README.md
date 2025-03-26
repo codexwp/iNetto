@@ -22,7 +22,7 @@ iNetto offers a streamlined solution to efficiently manage customer accounts and
 - Responsive Design: Fully optimized for desktops, tablets, and mobile devices.
 
 
-#### Demo URL - [http://inetto.codexwp.com](http://inetto.codexwp.com)
+#### Demo URL - [http://inetto.codex200.com](http://inetto.codex200.com)
 ```
 Admin Login – admin@inetto.com & 123456
 
@@ -31,7 +31,7 @@ Seller Login – seller1@inetto.com & 123456
 User Login – user1@inetto.com & 123456
 ```
 
-#### Buy License Key From Here [https://www.codexwp.com/products/](https://www.codexwp.com/products/)
+#### Buy License Key From Here [https://www.codex200.com/products/](https://www.codex200.com/products/)
 
 
 -------
