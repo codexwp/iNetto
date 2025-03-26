@@ -6,7 +6,7 @@ iNetto offers a streamlined solution to efficiently manage customer accounts and
 
 - Version: 1.0
 - Release Date: 1 January, 2025
-- Author: [CodeXwp](http://codexwp.com)
+- Author: [CodeX200](http://codex200.com)
 
 #### Features
 - Admin Dashboard: Modern UI built with Sneat Admin Template, offering real-time analytics and insights.
