@@ -6,7 +6,7 @@ iNetto offers a streamlined solution to efficiently manage customer accounts and
 
 - Version: 1.0
 - Release Date: 1 January, 2025
-- Author: [CodeX200](http://codex200.com)
+- Author: [CODExWP](http://codexwp.com)
 
 #### Features
 - Admin Dashboard: Modern UI built with Sneat Admin Template, offering real-time analytics and insights.
@@ -22,7 +22,7 @@ iNetto offers a streamlined solution to efficiently manage customer accounts and
 - Responsive Design: Fully optimized for desktops, tablets, and mobile devices.
 
 
-#### Demo URL - [http://inetto.codex200.com](http://inetto.codex200.com)
+#### Demo URL - [http://inetto.codexwp.com](http://inetto.codexwp.com)
 ```
 Admin Login – admin@inetto.com & 123456
 
@@ -31,7 +31,7 @@ Seller Login – seller1@inetto.com & 123456
 User Login – user1@inetto.com & 123456
 ```
 
-#### Buy License Key From Here [https://www.codex200.com/products/](https://www.codex200.com/products/)
+#### Buy License Key From Here [https://www.codexwp.com/products/](https://www.codexwp.com/products/)
 
 
 -------
@@ -58,7 +58,7 @@ This document will guide you through the installation and usage of this software
 - Run `npm install` to install frontend dependencies if public/build doesn't exist.
 - Build the frontend assets by running `npm run build` if public/build doesn't exist.
 - Open your browser, visit (yourdomain.com/install) and follow the instructions.
-- For details documentation visit here [http://inetto.codex200.com/public/docs](http://inetto.codex200.com/public/docs)
+- For details documentation visit here [http://inetto.codexwp.com/public/docs](http://inetto.codexwp.com/public/docs)
 
 
 --------------------------------------------------
@@ -87,6 +87,6 @@ This project uses the following third-party libraries and services:
 --------------------------------------------------
 If you need support or have queries, please contact:
 - Email: info@codexwp.com
-- Contact Us: [support.codex200.com](https://codex200.com/contact-us)
+- Contact Us: [support.codexwp.com](https://codexwp.com/contact-us)
 
 Thank you for using iNetto!
